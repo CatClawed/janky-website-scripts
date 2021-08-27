@@ -1,0 +1,665 @@
+clean-water
+plant-essence
+roteswasser-tonic
+jade-water
+ether-aqua
+foamy-water
+ancient-blue-water
+clover-milk
+black-water
+nameless-grass
+dry-grass
+poison-grass
+wasser-wheat
+sweet-leaf
+rosen-leaf
+ancient-branch
+lucky-clover
+blue-clover
+blue-herb
+torch-grass
+rishikelp
+glowing-diatom
+uni
+gold-uni
+water-uni
+ancient-uni
+emperor-uni
+health-flower
+northern-wind-flower
+sunny-honey-flower
+bubble-grass
+spring-princess
+delphi-rose
+fragile
+timeteller
+polar-cactus
+dream-flower
+rose-crystal
+taun
+tall-taun
+sapling-branch
+medicinal-moss
+fertile-soil
+medium-medicine
+bitter-root
+crimson-grass
+ancient-solution
+sage-grass
+life-leaf
+refueling-extract
+yugdore-water
+resentful-scream
+mushroom-powder
+stinky-trash
+burnt-ash
+dragon-flower
+demon-blood
+forest-sage
+dunkelheit
+dream-powder
+divine-liquid
+solflower
+soft-sand
+burning-sand
+ashen-sand
+polluted-humus
+emerald-glass
+seafloor-soil
+black-muck
+vortex-sand
+nectar-rock
+eroded-stone
+riverstone
+blue-flame-riverstone
+waterside-moss-stone
+ethereal-stone
+ancient-pillar
+coral-stone
+arknite
+crimson-ore
+aqua-ore
+lightning-ore
+wind-ore
+amatite-ore
+pentanite
+mordenite
+goldinite
+degenesis-stone
+septrin
+eternal-crystal
+small-crystals
+unknown-gemstone
+shell-pearl
+amber-crystal
+magnemarmor
+holy-arbor-crystal
+rainbow-gemstone
+amber-fragment
+glowing-coral
+star-fragment
+underworld-crystal
+dried-lumber
+flaming-black-sand
+magma-powder
+scrap-paper
+flammable-bark
+palma-bark
+natural-oil
+smokey-charcoal
+palma-charcoal
+fuel-coconut
+eternal-fire
+amber-oil
+beast-meat
+fresh-meat
+unknown-egg
+oil-tree-fruit
+nectar-fruit
+wild-potato
+portpea
+palma-fruit
+fresh-berry
+werder-nut
+fortune-fruit
+beehive
+silver-beehive
+gold-beehive
+ancient-beehive
+honey-ball
+eicheloa
+mushroom-colony
+utopiechampignon
+golden-crown
+jellyfish-mushroom
+dusk-mushroom
+danger-mushroom
+sardine
+exofish
+seriole
+pourpremoule
+crab
+mace-fish
+myria-fish
+lake-master
+pretty-shells
+spikey
+uni-starfish
+demon-crab
+dragonpalace-nautilus
+crown-shellfish
+imperial-fish
+seven-stars
+honey-ant
+lantern-fly
+rose-bee
+giant-beetle
+bomb-dragoon
+expiation-worm
+amber-fly
+lapis-papillion
+baby-wyrm
+trihorn
+ancient-bug
+spirit-isopod
+restraint-silk
+tough-vine
+arbor-ivy
+cotton-grass
+queen-spider-web
+angel-silk
+eiche
+tough-log
+mossy-driftwood
+holy-arbor-branch
+palma
+fossil-tree
+mana-eater-branch
+ancient-log
+wooden-cog
+millennial-tree
+wing-plant
+sky-bubble
+crispy-mushroom
+rotwood-miasma
+water-holy-branch
+blue-puniball
+green-puniball
+red-puniball
+black-puniball
+silver-puniball
+gold-puniball
+pink-puniball
+animal-hide
+mythical-hide
+large-bone
+beast-fossil
+blessed-feather
+water-beast-fossil
+water-beast-scale
+cave-bat-wing
+goat-horn
+fairystone-fragment
+dark-crystal-fragment
+holy-stone-fragment
+magic-tome-piece
+old-magic-tome
+holy-tree-leaf
+abyss-bolt
+round-tablet
+ancient-fossil
+tempting-sap
+white-moon-frost
+virgo-requiem-flower
+ember-stone
+shining-sand
+rusted-sword
+broken-tools
+ancient-sword
+mysterious-metal-shard
+beast-fin
+beast-shell
+beast-scales
+giant-puniball
+golem-core
+heroic-spirit
+giant-claws
+inverted-scale
+fairy-horn-adornment
+fluffy-wool
+demon-claws
+giant-bird-feather
+giant-bird-egg
+ether-core
+guardian-armor
+dragon-meat
+dragon-wing
+dragon-egg
+dragon-eye
+dragon-bone
+chestnut
+explosive-uni
+bomb
+ice-bomb
+plajig
+luft
+bubble-bullet
+genesis-hammer
+lunar-lamp
+philosopher-s-book
+grand-bomb
+crystal-ice-bomb
+laute-plajig
+wirbel-luft
+n-a
+apocalypse
+mortal-bullet
+grass-beans
+nectar
+cocktail-leb
+goddess-cup
+heraus-ointment
+holy-beans
+mythic-nectar
+innocent-leb
+forbidden-elixir
+curative-milk
+energianica
+mystic-robe
+red-war-powder
+blue-star-robe
+lunatic-debonyal
+reverse-clock
+order-breaker
+poison-thorn-prison
+bottle-of-poison
+demonic-potion
+master-spirit
+grass-sickle
+woodcutter-s-axe
+bomb-rod
+bug-net
+fishing-rod
+wind-shoes
+emerald-band
+spirit-beast-whistle
+mana-lantern
+air-drop
+red-neutralizer
+blue-neutralizer
+yellow-neutralizer
+green-neutralizer
+polishing-powder
+zettel
+ingot
+samasten
+cloth
+honey
+super-pure-water
+healing-chips
+marblestone
+gunpowder-base
+mixing-oil
+flour
+gelatin-powder
+alchemy-fibers
+holynut-lumber
+feather-draft
+plant-seeds
+true-handmade-staff
+kurzbogen
+training-sword
+cross-daggers
+index
+antique-feather
+nature-s-band
+innocent-riches
+enlightened-bandana
+soul-of-fortitude
+cosmos
+mysterious-relic
+broken-orb
+glorious-oil
+solar-oil
+mystic-star-water
+great-tree-seedling
+divine-branch
+dragon-skeleton-device
+memoria-bracelet
+broken-cherished-tools
+treasure-kit
+segur-nohak-seeds
+segur-nohak
+sweet-pom
+pom-tart
+demolition-bomb
+mana-liquid
+underworld-fairystone
+ryza-s-fake-medicine
+plant-food
+sunlight-soil
+white-flower-of-purity
+crafter-s-drill
+mountain-of-envelopes
+celestial-instrument
+fi-s-egg
+compass
+core-shard
+drive-fragment
+luceaux
+incendiary-crystal
+fire-vortex-crystal
+antiquated-history-book
+keldorah-historical-record
+memory-fragment
+history-fragment
+archeology-record
+exploration-notes
+old-scroll
+old-accessory
+living-bell-fragment
+nebula-core
+custom-flame-crystal
+awakening-incense
+dragon-device-blood
+girl-s-lost-items
+ancient-fragment
+ancient-scroll
+sarding
+sidewalk-grass
+pudding
+samasten-necklace
+fire-essence
+ice-essence
+lightning-essence
+wind-essence
+aurora-essence
+polaris-essence
+celestial-essence
+aether-essence
+solar-essence
+reference-book
+forgotten-secrets
+making-demolition-bombs
+repairing-the-living-bell
+creating-celestial-memories
+crafting-a-custom-flame-crystal
+carving-awakening-incense
+mixing-dragon-device-blood
+mysterious-tablet
+making-lubricants
+growing-trees
+secret-recipe
+communication-guide
+fixing-tools
+make-it-grow
+notes-on-improving-soil
+making-sweets
+crafting-tool-recipes
+refining-mana
+extracting-mana
+mixing-a-healing-ointment
+creating-friendship-bands
+making-purifying-seeds
+creating-jade-armband
+creating-spirit-beast-whistle
+breathing-underwater
+creating-lucky-pendant
+making-mana-lanterns
+clues-of-the-origins
+making-salty-pudding
+mixing-repair-liquid
+book-restoration
+forging-an-incendiary-crystal
+making-phantom-polish
+fire-mist
+ice-mist
+lightning-mist
+wind-mist
+light-mist
+keldorah-fairystone-piece
+dark-sunstone
+lunar-drop
+jewel-mushroom
+sealed-herb
+fenikis-chemical
+red-beetle
+crystal-tree
+obsidian-tail-feather
+phantom-flower-butterfly
+corroded-coins
+thousand-scale-fruit
+soul-flower
+rainbow-coral-fragment
+fail-plywood
+blood-taun
+ash-lightstone
+phantom-polish
+dusky-powder
+countryside-interior
+arid-region-interior
+rustic-interior
+casual-interior
+chick-doll
+crystal-object
+fairy-doll
+puni-jelly
+puni-doll
+exhibition-stand
+hanging-lantern
+round-table
+leather-sofa
+chic-sofa
+elegant-low-table
+pendulum-clock
+piano
+cute-bed
+extravagant-bed
+barrel
+fashionable-bench
+garden-table
+potted-plant
+oren-doll
+dinner-bell
+decorative-sword
+resort-bed
+resort-sofa
+table-with-tablecloth
+potted-palm
+music-stand
+giant-manuscript
+pixie-pot
+great-elemental-s-chair
+celestial-body-model
+farm-photo
+countryside-photo
+rocking-chair
+cute-sofa
+blackboard
+blacksmith-statue
+goat
+crisp-bun
+pumpkin-doll
+globe
+transport-cannon
+giant-kurken-fruit
+mountain-of-sweets
+exotic-horn
+apple-basket
+knight-s-armor
+teddy-bear
+beautiful-picture-frame
+mysterious-broom
+phonograph
+weasel-doll
+shiny-bust
+sparkling-bust
+rose-bomb	bomb
+glass-flower	ice-bomb
+kleid-ice-bomb	ice-bomb
+omega-craft	craft
+elixir	nectar
+nexfuelia	nectar
+divine-fishing-rod	fishing-rod
+master-bug-net	bug-net
+craft	explosive-uni
+lightning-sand	plajig
+strahl-plajig	plajig
+ratsel-luft	luft
+magic-spears-of-void	genesis-hammer
+dark-night-treasure	lunar-lamp
+dawn-grimoire	philosopher-s-book
+fish-oil	grass-beans
+dry-biscuit	grass-beans
+aries-candy	cocktail-leb
+elixir-spray	goddess-cup
+amalgam	fish-oil
+miracle-ebonyal	war-powder
+poison-smoke	thorny-embrace
+elysium-harp	energianica
+heroic-geist	poison-smoke
+witch-s-potion	miracle-ebonyal
+silent-sickle	grass-sickle
+golden-axe	woodcutter-s-axe
+blue-bomb-rod	bomb-rod
+rainbow-neutralizer	red-neutralizer
+rainbow-neutralizer	blue-neutralizer
+rainbow-neutralizer	yellow-neutralizer
+rainbow-neutralizer	green-neutralizer
+energy-pendant	polishing-powder
+pearl-crystal	polishing-powder
+reinforced-zettel	zettel
+traveler-s-water-orb	zettel
+alchemy-filter	reinforced-zettel
+spirit-bottle	alchemy-paint
+uni-charm	ingot
+startium	ingot
+fluffy-tail	startium
+creaminea	startium
+astronomical-clock	creaminea
+goldoterion	creaminea
+baron-s-crown	goldoterion
+grand-orgen	goldoterion
+glory-belt	grand-orgen
+traveler-s-coat	cloth
+bestial-air	cloth
+sorcery-rose	bestial-air
+puni-leather	bestial-air
+hot-blooded-bandana	sorcery-rose
+eldrocode	sorcery-rose
+weise-cloth	eldrocode
+kaiser-cape	weise-cloth
+amberlite	pearl-crystal
+gnade-ring	pearl-crystal
+quartz-necklace	amberlite
+spirinite	amberlite
+waking-emerald	spirinite
+saint-s-diamond	spirinite
+diamond-string	saint-s-diamond
+arc-en-ciel	saint-s-diamond
+elixir-ring	arc-en-ciel
+dragon-s-tear	arc-en-ciel
+ashra-milk	honey
+eltz-sugar	honey
+berry-syrup	eltz-sugar
+war-powder	eltz-sugar
+mist-liquid	traveler-s-water-orb
+delphi-rose-incense	traveler-s-water-orb
+port-liquid	super-pure-water
+jelly-sand	super-pure-water
+lumiere-potpourri	healing-chips
+dry-powder	healing-chips
+medicinal-cocktail	holy-drop
+medica-solution	holy-drop
+poison-powder	poison-cube
+taboo-drop	poison-cube
+crimson-base	taboo-drop
+holy-drop	taboo-drop
+polishing-sand	lightning-sand
+cross-cartridge	lightning-sand
+edelhard	marblestone
+meltstone	marblestone
+blue-flame-ember	gunpowder-base
+golden-oil	mixing-oil
+alchemy-paint	mixing-oil
+ashra-donut	flour
+poison-cube	flour
+thorny-embrace	alchemy-fibers
+heavenly-string	alchemy-fibers
+stahl-fiber	heavenly-string
+yggdras	holynut-lumber
+noble-unit	feather-draft
+master-leather	puni-leather
+dread-leather	master-leather
+mosaic-hope	glass-flower
+another-planet	spirit-bottle
+crystal-element	spirit-bottle
+ether-engine	cross-cartridge
+olden-philosopher-s-stone	philosopher-s-stone
+water-seeds	plant-seeds
+stone-seeds	plant-seeds
+fire-seeds	stone-seeds
+golden-seeds	fire-seeds
+mystic-seeds	water-seeds
+poison-seeds	mystic-seeds
+noble-tunic	traveler-s-coat
+radiant-plate	soldier-s-cuirass
+fairy-cloak	mimicry-robe
+secret-garb	mimicry-robe
+adamantium-scales	draconic-heart
+white-order	layered-velvet
+leather-protector	noble-tunic
+soldier-s-cuirass	leather-protector
+mimicry-robe	radiant-plate
+fortress-armor	radiant-plate
+layered-velvet	fairy-cloak
+draconic-heart	fortress-armor
+locket-of-devotion	uni-charm
+migratory-charm	locket-of-devotion
+focus-glass	waking-emerald
+sage-circlet	waking-emerald
+silk-honey	berry-syrup
+cool-gunpowder	port-liquid
+liquefier	port-liquid
+toxilixir	poison-powder
+witch-s-potion	poison-powder
+riot-coal	meltstone
+philosopher-s-stone	crystal-element
+four-spirits-amulet	crystal-element
+mystical-wonder	true-handmade-staff
+inversion	mystical-wonder
+azure-tear	inversion
+sparkling-reverie	azure-tear
+nocturnal-relic	sparkling-reverie
+ermine-tail	kurzbogen
+wind-blaster	ermine-tail
+lapis-flugel	wind-blaster
+astrumnox	lapis-flugel
+harmonic-note	astrumnox
+heavy-bulwark	training-sword
+hexbringer	heavy-bulwark
+ragnarok	hexbringer
+demon-ender	ragnarok
+chandilebram	demon-ender
+twin-edge	cross-daggers
+halfmoons	twin-edge
+tiger-wolf-fangs	halfmoons
+amphisbaena	tiger-wolf-fangs
+silent-lynx	amphisbaena
+piercing-blade	index
+lowen-arger	piercing-blade
+null-circle	lowen-arger
+edel-schwert	null-circle
+euphoglave	edel-schwert
+forest-hunter	antique-feather
+espiral	forest-hunter
+nimble-hawk	espiral
+immortal-chaser	nimble-hawk
+dread-howl	immortal-chaser
+giesskanne	nature-s-band
+guidance-bangle	giesskanne
+excelsior-brace	guidance-bangle
+grand-floracion	excelsior-brace
+circle-wisteria	grand-floracion
+villainy-haze	heroic-geist
+max-vinegar	medicinal-cocktail

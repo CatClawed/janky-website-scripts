@@ -1,0 +1,169 @@
+craft	 > explosive-uni > craft	2
+rose-bomb	 > bomb > rose-bomb	2
+glass-flower	 > ice-bomb > glass-flower	2
+kleid-ice-bomb	 > ice-bomb > kleid-ice-bomb	2
+lightning-sand	 > plajig > lightning-sand	2
+strahl-plajig	 > plajig > strahl-plajig	2
+ratsel-luft	 > luft > ratsel-luft	2
+magic-spears-of-void	 > genesis-hammer > magic-spears-of-void	2
+dark-night-treasure	 > lunar-lamp > dark-night-treasure	2
+dawn-grimoire	 > philosopher-s-book > dawn-grimoire	2
+fish-oil	 > grass-beans > fish-oil	2
+dry-biscuit	 > grass-beans > dry-biscuit	2
+elixir	 > nectar > elixir	2
+nexfuelia	 > nectar > nexfuelia	2
+aries-candy	 > cocktail-leb > aries-candy	2
+elixir-spray	 > goddess-cup > elixir-spray	2
+elysium-harp	 > energianica > elysium-harp	2
+silent-sickle	 > grass-sickle > silent-sickle	2
+golden-axe	 > woodcutter-s-axe > golden-axe	2
+blue-bomb-rod	 > bomb-rod > blue-bomb-rod	2
+master-bug-net	 > bug-net > master-bug-net	2
+divine-fishing-rod	 > fishing-rod > divine-fishing-rod	2
+rainbow-neutralizer	 > red-neutralizer > rainbow-neutralizer	2
+rainbow-neutralizer	 > blue-neutralizer > rainbow-neutralizer	2
+rainbow-neutralizer	 > yellow-neutralizer > rainbow-neutralizer	2
+rainbow-neutralizer	 > green-neutralizer > rainbow-neutralizer	2
+energy-pendant	 > polishing-powder > energy-pendant	2
+pearl-crystal	 > polishing-powder > pearl-crystal	2
+reinforced-zettel	 > zettel > reinforced-zettel	2
+traveler-s-water-orb	 > zettel > traveler-s-water-orb	2
+uni-charm	 > ingot > uni-charm	2
+startium	 > ingot > startium	2
+traveler-s-coat	 > cloth > traveler-s-coat	2
+bestial-air	 > cloth > bestial-air	2
+ashra-milk	 > honey > ashra-milk	2
+eltz-sugar	 > honey > eltz-sugar	2
+port-liquid	 > super-pure-water > port-liquid	2
+jelly-sand	 > super-pure-water > jelly-sand	2
+lumiere-potpourri	 > healing-chips > lumiere-potpourri	2
+dry-powder	 > healing-chips > dry-powder	2
+edelhard	 > marblestone > edelhard	2
+meltstone	 > marblestone > meltstone	2
+blue-flame-ember	 > gunpowder-base > blue-flame-ember	2
+golden-oil	 > mixing-oil > golden-oil	2
+alchemy-paint	 > mixing-oil > alchemy-paint	2
+ashra-donut	 > flour > ashra-donut	2
+poison-cube	 > flour > poison-cube	2
+thorny-embrace	 > alchemy-fibers > thorny-embrace	2
+heavenly-string	 > alchemy-fibers > heavenly-string	2
+yggdras	 > holynut-lumber > yggdras	2
+noble-unit	 > feather-draft > noble-unit	2
+water-seeds	 > plant-seeds > water-seeds	2
+stone-seeds	 > plant-seeds > stone-seeds	2
+mystical-wonder	 > true-handmade-staff > mystical-wonder	2
+ermine-tail	 > kurzbogen > ermine-tail	2
+heavy-bulwark	 > training-sword > heavy-bulwark	2
+twin-edge	 > cross-daggers > twin-edge	2
+piercing-blade	 > index > piercing-blade	2
+forest-hunter	 > antique-feather > forest-hunter	2
+giesskanne	 > nature-s-band > giesskanne	2
+omega-craft	 > explosive-uni > craft > omega-craft	3
+mosaic-hope	 > ice-bomb > glass-flower > mosaic-hope	3
+polishing-sand	 > plajig > lightning-sand > polishing-sand	3
+cross-cartridge	 > plajig > lightning-sand > cross-cartridge	3
+amalgam	 > grass-beans > fish-oil > amalgam	3
+amberlite	 > polishing-powder > pearl-crystal > amberlite	3
+gnade-ring	 > polishing-powder > pearl-crystal > gnade-ring	3
+alchemy-filter	 > zettel > reinforced-zettel > alchemy-filter	3
+mist-liquid	 > zettel > traveler-s-water-orb > mist-liquid	3
+delphi-rose-incense	 > zettel > traveler-s-water-orb > delphi-rose-incense	3
+locket-of-devotion	 > ingot > uni-charm > locket-of-devotion	3
+fluffy-tail	 > ingot > startium > fluffy-tail	3
+creaminea	 > ingot > startium > creaminea	3
+noble-tunic	 > cloth > traveler-s-coat > noble-tunic	3
+sorcery-rose	 > cloth > bestial-air > sorcery-rose	3
+puni-leather	 > cloth > bestial-air > puni-leather	3
+berry-syrup	 > honey > eltz-sugar > berry-syrup	3
+war-powder	 > honey > eltz-sugar > war-powder	3
+cool-gunpowder	 > super-pure-water > port-liquid > cool-gunpowder	3
+liquefier	 > super-pure-water > port-liquid > liquefier	3
+riot-coal	 > marblestone > meltstone > riot-coal	3
+spirit-bottle	 > mixing-oil > alchemy-paint > spirit-bottle	3
+poison-powder	 > flour > poison-cube > poison-powder	3
+taboo-drop	 > flour > poison-cube > taboo-drop	3
+poison-smoke	 > alchemy-fibers > thorny-embrace > poison-smoke	3
+stahl-fiber	 > alchemy-fibers > heavenly-string > stahl-fiber	3
+mystic-seeds	 > plant-seeds > water-seeds > mystic-seeds	3
+fire-seeds	 > plant-seeds > stone-seeds > fire-seeds	3
+inversion	 > true-handmade-staff > mystical-wonder > inversion	3
+wind-blaster	 > kurzbogen > ermine-tail > wind-blaster	3
+hexbringer	 > training-sword > heavy-bulwark > hexbringer	3
+halfmoons	 > cross-daggers > twin-edge > halfmoons	3
+lowen-arger	 > index > piercing-blade > lowen-arger	3
+espiral	 > antique-feather > forest-hunter > espiral	3
+guidance-bangle	 > nature-s-band > giesskanne > guidance-bangle	3
+ether-engine	 > plajig > lightning-sand > cross-cartridge > ether-engine	4
+quartz-necklace	 > polishing-powder > pearl-crystal > amberlite > quartz-necklace	4
+spirinite	 > polishing-powder > pearl-crystal > amberlite > spirinite	4
+migratory-charm	 > ingot > uni-charm > locket-of-devotion > migratory-charm	4
+astronomical-clock	 > ingot > startium > creaminea > astronomical-clock	4
+goldoterion	 > ingot > startium > creaminea > goldoterion	4
+leather-protector	 > cloth > traveler-s-coat > noble-tunic > leather-protector	4
+hot-blooded-bandana	 > cloth > bestial-air > sorcery-rose > hot-blooded-bandana	4
+eldrocode	 > cloth > bestial-air > sorcery-rose > eldrocode	4
+master-leather	 > cloth > bestial-air > puni-leather > master-leather	4
+silk-honey	 > honey > eltz-sugar > berry-syrup > silk-honey	4
+miracle-ebonyal	 > honey > eltz-sugar > war-powder > miracle-ebonyal	4
+another-planet	 > mixing-oil > alchemy-paint > spirit-bottle > another-planet	4
+crystal-element	 > mixing-oil > alchemy-paint > spirit-bottle > crystal-element	4
+toxilixir	 > flour > poison-cube > poison-powder > toxilixir	4
+witch-s-potion	 > flour > poison-cube > poison-powder > witch-s-potion	4
+crimson-base	 > flour > poison-cube > taboo-drop > crimson-base	4
+holy-drop	 > flour > poison-cube > taboo-drop > holy-drop	4
+heroic-geist	 > alchemy-fibers > thorny-embrace > poison-smoke > heroic-geist	4
+poison-seeds	 > plant-seeds > water-seeds > mystic-seeds > poison-seeds	4
+golden-seeds	 > plant-seeds > stone-seeds > fire-seeds > golden-seeds	4
+azure-tear	 > true-handmade-staff > mystical-wonder > inversion > azure-tear	4
+lapis-flugel	 > kurzbogen > ermine-tail > wind-blaster > lapis-flugel	4
+ragnarok	 > training-sword > heavy-bulwark > hexbringer > ragnarok	4
+tiger-wolf-fangs	 > cross-daggers > twin-edge > halfmoons > tiger-wolf-fangs	4
+null-circle	 > index > piercing-blade > lowen-arger > null-circle	4
+nimble-hawk	 > antique-feather > forest-hunter > espiral > nimble-hawk	4
+excelsior-brace	 > nature-s-band > giesskanne > guidance-bangle > excelsior-brace	4
+waking-emerald	 > polishing-powder > pearl-crystal > amberlite > spirinite > waking-emerald	5
+saint-s-diamond	 > polishing-powder > pearl-crystal > amberlite > spirinite > saint-s-diamond	5
+baron-s-crown	 > ingot > startium > creaminea > goldoterion > baron-s-crown	5
+grand-orgen	 > ingot > startium > creaminea > goldoterion > grand-orgen	5
+soldier-s-cuirass	 > cloth > traveler-s-coat > noble-tunic > leather-protector > soldier-s-cuirass	5
+weise-cloth	 > cloth > bestial-air > sorcery-rose > eldrocode > weise-cloth	5
+dread-leather	 > cloth > bestial-air > puni-leather > master-leather > dread-leather	5
+witch-s-potion	 > honey > eltz-sugar > war-powder > miracle-ebonyal > witch-s-potion	5
+philosopher-s-stone	 > mixing-oil > alchemy-paint > spirit-bottle > crystal-element > philosopher-s-stone	5
+four-spirits-amulet	 > mixing-oil > alchemy-paint > spirit-bottle > crystal-element > four-spirits-amulet	5
+medicinal-cocktail	 > flour > poison-cube > taboo-drop > holy-drop > medicinal-cocktail	5
+medica-solution	 > flour > poison-cube > taboo-drop > holy-drop > medica-solution	5
+villainy-haze	 > alchemy-fibers > thorny-embrace > poison-smoke > heroic-geist > villainy-haze	5
+sparkling-reverie	 > true-handmade-staff > mystical-wonder > inversion > azure-tear > sparkling-reverie	5
+astrumnox	 > kurzbogen > ermine-tail > wind-blaster > lapis-flugel > astrumnox	5
+demon-ender	 > training-sword > heavy-bulwark > hexbringer > ragnarok > demon-ender	5
+amphisbaena	 > cross-daggers > twin-edge > halfmoons > tiger-wolf-fangs > amphisbaena	5
+edel-schwert	 > index > piercing-blade > lowen-arger > null-circle > edel-schwert	5
+immortal-chaser	 > antique-feather > forest-hunter > espiral > nimble-hawk > immortal-chaser	5
+grand-floracion	 > nature-s-band > giesskanne > guidance-bangle > excelsior-brace > grand-floracion	5
+focus-glass	 > polishing-powder > pearl-crystal > amberlite > spirinite > waking-emerald > focus-glass	6
+sage-circlet	 > polishing-powder > pearl-crystal > amberlite > spirinite > waking-emerald > sage-circlet	6
+diamond-string	 > polishing-powder > pearl-crystal > amberlite > spirinite > saint-s-diamond > diamond-string	6
+arc-en-ciel	 > polishing-powder > pearl-crystal > amberlite > spirinite > saint-s-diamond > arc-en-ciel	6
+glory-belt	 > ingot > startium > creaminea > goldoterion > grand-orgen > glory-belt	6
+radiant-plate	 > cloth > traveler-s-coat > noble-tunic > leather-protector > soldier-s-cuirass > radiant-plate	6
+kaiser-cape	 > cloth > bestial-air > sorcery-rose > eldrocode > weise-cloth > kaiser-cape	6
+olden-philosopher-s-stone	 > mixing-oil > alchemy-paint > spirit-bottle > crystal-element > philosopher-s-stone > olden-philosopher-s-stone	6
+max-vinegar	 > flour > poison-cube > taboo-drop > holy-drop > medicinal-cocktail > max-vinegar	6
+nocturnal-relic	 > true-handmade-staff > mystical-wonder > inversion > azure-tear > sparkling-reverie > nocturnal-relic	6
+harmonic-note	 > kurzbogen > ermine-tail > wind-blaster > lapis-flugel > astrumnox > harmonic-note	6
+chandilebram	 > training-sword > heavy-bulwark > hexbringer > ragnarok > demon-ender > chandilebram	6
+silent-lynx	 > cross-daggers > twin-edge > halfmoons > tiger-wolf-fangs > amphisbaena > silent-lynx	6
+euphoglave	 > index > piercing-blade > lowen-arger > null-circle > edel-schwert > euphoglave	6
+dread-howl	 > antique-feather > forest-hunter > espiral > nimble-hawk > immortal-chaser > dread-howl	6
+circle-wisteria	 > nature-s-band > giesskanne > guidance-bangle > excelsior-brace > grand-floracion > circle-wisteria	6
+elixir-ring	 > polishing-powder > pearl-crystal > amberlite > spirinite > saint-s-diamond > arc-en-ciel > elixir-ring	7
+dragon-s-tear	 > polishing-powder > pearl-crystal > amberlite > spirinite > saint-s-diamond > arc-en-ciel > dragon-s-tear	7
+mimicry-robe	 > cloth > traveler-s-coat > noble-tunic > leather-protector > soldier-s-cuirass > radiant-plate > mimicry-robe	7
+fortress-armor	 > cloth > traveler-s-coat > noble-tunic > leather-protector > soldier-s-cuirass > radiant-plate > fortress-armor	7
+fairy-cloak	 > cloth > traveler-s-coat > noble-tunic > leather-protector > soldier-s-cuirass > radiant-plate > mimicry-robe > fairy-cloak	8
+secret-garb	 > cloth > traveler-s-coat > noble-tunic > leather-protector > soldier-s-cuirass > radiant-plate > mimicry-robe > secret-garb	8
+draconic-heart	 > cloth > traveler-s-coat > noble-tunic > leather-protector > soldier-s-cuirass > radiant-plate > fortress-armor > draconic-heart	8
+layered-velvet	 > cloth > traveler-s-coat > noble-tunic > leather-protector > soldier-s-cuirass > radiant-plate > mimicry-robe > fairy-cloak > layered-velvet	9
+adamantium-scales	 > cloth > traveler-s-coat > noble-tunic > leather-protector > soldier-s-cuirass > radiant-plate > fortress-armor > draconic-heart > adamantium-scales	9
+white-order	 > cloth > traveler-s-coat > noble-tunic > leather-protector > soldier-s-cuirass > radiant-plate > mimicry-robe > fairy-cloak > layered-velvet > white-order	10

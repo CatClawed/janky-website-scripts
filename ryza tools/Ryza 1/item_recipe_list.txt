@@ -1,0 +1,247 @@
+Explosive Uni
+Ice Caltrop	Explosive Uni
+Craft	Explosive Uni
+Bomb
+Ice Bomb	Ice Caltrop
+Plajig
+Luft
+Norden Brand	Staltium
+Lightning Bell
+Bubble Bullet
+Rose Bomb	Bomb
+Kleid Ice Bomb	Ice Bomb
+Strahl Plajig	Plajig
+Ratsel Luft	Luft
+Fire Bottle	Rose Bomb
+Genesis Hammer
+Vanish Siegel	Kleid Ice Bomb	Ratsel Luft
+Lunar Lamp
+Eternal Fear
+Philosopher's Book
+Grass Beans
+Dry Biscuit	Grass Beans
+Blessing Ointment	Grass Beans
+Puni Jelly	Dry Biscuit
+Rasen Pudding
+Trickling Breeze
+Restoration Bottle
+Nectar	Restoration Bottle
+Healing Ball
+Dynamic Syrup
+Cocktail Leb	Rasen Pudding
+Goddess Cup
+Elixir	Nectar
+Fish Oil	Mixing Oil
+War Powder	Eltz Sugar
+Thorny Embrace	Alchemy Fibers
+Energianica
+Sundry Remedy	Honey
+Poison Smoke	Thorny Embrace
+Mystic Robe
+Miracle Ebonyal	War Powder
+Heroic Geist	Poison Smoke
+Astronomical Clock	Criminea
+Reaper's Scythe	Ingot
+Woodcutter's Axe
+Hammer
+Bomb Rod
+Fishing Rod
+Bug Net
+Compass	Bronze Eisen
+Wind Shoes	Sorcery Rose
+Knapsack	Beastial Air
+Mirage Loupe	Glass Flower
+Scythe Axe	Reaper's Scythe
+Bomb Hammer	Hammer
+Fishing Rod Net	Fishing Rod
+Loupe Compass	Compass
+Exploration Set	Knapsack
+Red Supplement
+Blue Supplement
+Yellow Supplement
+Green Supplement
+Polish Powder
+Zettel
+Delicious Bait	Flour
+Alchemy Paint	Mixing Oil
+Delphi Rose Incense	Traveler's Water Orb
+Ingot
+Bronze Eisen	Ingot
+Staltium	Bronze Eisen
+Criminea	Staltium
+Goldoterion
+Cloth
+Natural Cloth	Cloth
+Beastial Air	Natural Cloth
+Sorcery Rose	Beastial Air
+Eldrocode
+Pearl Crystal	Polish Powder
+Amberlite	Pearl Crystal
+Spirinite	Amberlite
+Saint's Diamond	Spirinite
+Arc en Ciel	Saint's Diamond
+Honey
+Eltz Sugar	Honey
+Traveler's Water Orb	Zettel
+Super Pure Water
+Healing Chip	Building Material
+Holy Drop	Taboo Drop
+Poison Cube	Flour
+Taboo Drop	Poison Cube
+Lightning Sand	Lightning Bell
+Marblestone	Stone Material
+Gunpowder Base
+Blue Flame Ember	Gunpowder Base
+Mixing Oil
+Meltstone	Marblestone
+Flour
+Gelatin Powder
+Alchemy Fibers	Cloth
+Heaven's String	Alchemy Fibers
+Composite Plate	Building Material
+Holy Nut	Composite Plate
+Mist Liquid	Traveler's Water Orb
+Feather Draft
+Puni Leather	Natural Cloth
+Master Leather
+Glass Flower	Delphi Rose Incense
+Spirit Bottle	Alchemy Paint
+Crystal Element	Spirit Bottle
+Philosopher's Stone	Crystal Element
+Plant Seed
+Stone Seed	Plant Seed
+Fire Seed	Stone Seed
+Water Seed	Plant Seed
+Mystic Seed	Water Seed
+Handmade Staff
+Helioprox	Handmade Staff
+Grim Quartz	Helioprox
+Rune Code	Grim Quartz
+Celestial Seeker	Rune Code
+Practice Flute
+Crepusculum	Practice Flute
+Virgin Snow	Crepusculum
+Concert Mistress	Virgin Snow
+Ethereal Tone	Concert Mistress
+Weathered Sword
+Colossal Edge	Weathered Sword
+Initiator	Colossal Edge
+Schwartz Thruster	Initiator
+Lord Guardian	Schwartz Thruster
+Stake Hammer
+Clairempathy	Stake Hammer
+Destruction	Clairempathy
+Holy Torrent	Destruction
+Brave Emblem	Holy Torrent
+Pilgrimage Staff
+Forest Bell	Pilgrimage Staff
+Training Path	Forest Bell
+Holy Arbor Staff	Training Path
+Occult Wisdom	Holy Arbor Staff
+Iron Claws
+Krieger's Talon	Iron Claws
+Hail Crunch	Krieger's Talon
+Wind Slicer	Hail Crunch
+Oren Herald	Wind Slicer
+Kurken Sweats
+Noble Tunic
+Leather Protector
+Chain Vest	Kurken Sweats	Noble Tunic
+Border Scale	Leather Protector
+Radiant Plate	Border Scale
+Skuller Coat	Noble Tunic	Chain Vest
+Frost Armor	Radiant Plate
+Charade Lumont	Skuller Coat
+Fairy Cloak	Chain Vest
+Golden Mail	Frost Armor
+Darkness Dress	Fairy Cloak
+Fortress Armor	Golden Mail
+Sage's Cloak	Darkness Dress
+Stark Cologne	Fortress Armor	Sage's Cloak
+Energy Pendant	Polish Powder
+Gnardi Ring	Pearl Crystal
+Frostfire Earring	Boltwind Earring
+Boltwind Earring
+Exorcism Brooch	Holy Nut
+Quartz Necklace	Amberlite
+Heated Bangle	Spirinite
+Godspeed Boots	Master Leather
+Migratory Charm
+Fairystone Chain	Saint's Diamond
+Baron's Crown	Goldoterion
+Elixir Ring	Arc en Ciel
+Goat Meat
+Salt Grass
+Fairystone Block
+Building Material
+Stone Material
+Seaweed Soil
+Soft Rubber Stone
+Monster Attractor
+Powerful Fish Bait	Delicious Bait
+Resonance Orb
+Prosthetic Arm
+Super Steel Gear
+Old Pynnor Key
+Pynnor Key
+Red Stone
+Queen's Treasure
+Crimson Stone	Red Stone
+Core Crystal I
+Core Crystal II
+Core Crystal III
+Travel Bottle: Sun
+Travel Bottle: Moon
+Travel Bottle: Star
+Travel Bottle: Space
+Travel Bottle: Underworld
+Soleil Fruit
+Grizzly Wood
+Akashia Sap
+Waterproof Oil
+Resort Woodchip	Healing Chip
+Plain Lumber	Holy Nut
+Mastery Paint	Alchemy Paint
+Royal Tilestone	Marblestone
+Power Reactor
+Goat Hoof Stamp
+Slate Fragment
+Fresh Goat Milk
+Traveler's Log
+Continental Book
+Old Alchemy Book
+My First Dessert
+Materials Refined
+Kurken Fashion
+Home Crafting Guide
+Gathering Methods
+Let's Plant a Garden!
+Pudding Made Easy
+Common Paper Recipe
+Solid Fuel Recipe
+Jiggling Recipe
+Power of Nature
+Secrets of Alchemy
+Revelation Book
+Beginner's Book
+Cover Your Bases!
+Aroma Components
+Popular Animal Feed!
+A Lonely Alchemist
+Hideout Materials
+Champion's Trials
+Creation & Destruction
+Sweets That Pop
+Danger: Fire!
+Purely Water
+Handheld Warheads
+Moon Magic
+Rage of Gaia
+Prayer for Health
+Fantasy Cloth
+Book of Storms
+Travel Companions
+Lila's Note
+Tao's Note
+Creating a True Key
+Power Manifest

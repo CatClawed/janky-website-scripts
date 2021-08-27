@@ -1,0 +1,135 @@
+Ice Caltrop	Explosive Uni > Ice Caltrop	2
+Craft	Explosive Uni > Craft	2
+Rose Bomb	Bomb > Rose Bomb	2
+Strahl Plajig	Plajig > Strahl Plajig	2
+Ratsel Luft	Luft > Ratsel Luft	2
+Lightning Sand	Lightning Bell > Lightning Sand	2
+Dry Biscuit	Grass Beans > Dry Biscuit	2
+Blessing Ointment	Grass Beans > Blessing Ointment	2
+Cocktail Leb	Rasen Pudding > Cocktail Leb	2
+Nectar	Restoration Bottle > Nectar	2
+Bomb Hammer	Hammer > Bomb Hammer	2
+Fishing Rod Net	Fishing Rod > Fishing Rod Net	2
+Pearl Crystal	Polish Powder > Pearl Crystal	2
+Energy Pendant	Polish Powder > Energy Pendant	2
+Traveler's Water Orb	Zettel > Traveler's Water Orb	2
+Reaper's Scythe	Ingot > Reaper's Scythe	2
+Bronze Eisen	Ingot > Bronze Eisen	2
+Baron's Crown	Goldoterion > Baron's Crown	2
+Natural Cloth	Cloth > Natural Cloth	2
+Alchemy Fibers	Cloth > Alchemy Fibers	2
+Sundry Remedy	Honey > Sundry Remedy	2
+Eltz Sugar	Honey > Eltz Sugar	2
+Blue Flame Ember	Gunpowder Base > Blue Flame Ember	2
+Fish Oil	Mixing Oil > Fish Oil	2
+Alchemy Paint	Mixing Oil > Alchemy Paint	2
+Delicious Bait	Flour > Delicious Bait	2
+Poison Cube	Flour > Poison Cube	2
+Godspeed Boots	Master Leather > Godspeed Boots	2
+Stone Seed	Plant Seed > Stone Seed	2
+Water Seed	Plant Seed > Water Seed	2
+Helioprox	Handmade Staff > Helioprox	2
+Crepusculum	Practice Flute > Crepusculum	2
+Colossal Edge	Weathered Sword > Colossal Edge	2
+Clairempathy	Stake Hammer > Clairempathy	2
+Forest Bell	Pilgrimage Staff > Forest Bell	2
+Krieger's Talon	Iron Claws > Krieger's Talon	2
+Chain Vest	Kurken Sweats > Chain Vest	2
+Chain Vest	Noble Tunic > Chain Vest	2
+Skuller Coat	Noble Tunic > Skuller Coat	2
+Border Scale	Leather Protector > Border Scale	2
+Frostfire Earring	Boltwind Earring > Frostfire Earring	2
+Healing Chip	Building Material > Healing Chip	2
+Composite Plate	Building Material > Composite Plate	2
+Marblestone	Stone Material > Marblestone	2
+Crimson Stone	Red Stone > Crimson Stone	2
+Ice Bomb	Explosive Uni > Ice Caltrop > Ice Bomb	3
+Fire Bottle	Bomb > Rose Bomb > Fire Bottle	3
+Vanish Siegel	Luft > Ratsel Luft > Vanish Siegel	3
+Puni Jelly	Grass Beans > Dry Biscuit > Puni Jelly	3
+Elixir	Restoration Bottle > Nectar > Elixir	3
+Amberlite	Polish Powder > Pearl Crystal > Amberlite	3
+Gnardi Ring	Polish Powder > Pearl Crystal > Gnardi Ring	3
+Delphi Rose Incense	Zettel > Traveler's Water Orb > Delphi Rose Incense	3
+Mist Liquid	Zettel > Traveler's Water Orb > Mist Liquid	3
+Scythe Axe	Ingot > Reaper's Scythe > Scythe Axe	3
+Compass	Ingot > Bronze Eisen > Compass	3
+Staltium	Ingot > Bronze Eisen > Staltium	3
+Beastial Air	Cloth > Natural Cloth > Beastial Air	3
+Puni Leather	Cloth > Natural Cloth > Puni Leather	3
+Thorny Embrace	Cloth > Alchemy Fibers > Thorny Embrace	3
+Heaven's String	Cloth > Alchemy Fibers > Heaven's String	3
+War Powder	Honey > Eltz Sugar > War Powder	3
+Spirit Bottle	Mixing Oil > Alchemy Paint > Spirit Bottle	3
+Mastery Paint	Mixing Oil > Alchemy Paint > Mastery Paint	3
+Powerful Fish Bait	Flour > Delicious Bait > Powerful Fish Bait	3
+Taboo Drop	Flour > Poison Cube > Taboo Drop	3
+Fire Seed	Plant Seed > Stone Seed > Fire Seed	3
+Mystic Seed	Plant Seed > Water Seed > Mystic Seed	3
+Grim Quartz	Handmade Staff > Helioprox > Grim Quartz	3
+Virgin Snow	Practice Flute > Crepusculum > Virgin Snow	3
+Initiator	Weathered Sword > Colossal Edge > Initiator	3
+Destruction	Stake Hammer > Clairempathy > Destruction	3
+Training Path	Pilgrimage Staff > Forest Bell > Training Path	3
+Hail Crunch	Iron Claws > Krieger's Talon > Hail Crunch	3
+Fairy Cloak	Kurken Sweats > Chain Vest > Fairy Cloak	3
+Skuller Coat	Kurken Sweats > Chain Vest > Skuller Coat	3
+Fairy Cloak	Noble Tunic > Chain Vest > Fairy Cloak	3
+Skuller Coat	Noble Tunic > Chain Vest > Skuller Coat	3
+Charade Lumont	Noble Tunic > Skuller Coat > Charade Lumont	3
+Radiant Plate	Leather Protector > Border Scale > Radiant Plate	3
+Resort Woodchip	Building Material > Healing Chip > Resort Woodchip	3
+Holy Nut	Building Material > Composite Plate > Holy Nut	3
+Meltstone	Stone Material > Marblestone > Meltstone	3
+Royal Tilestone	Stone Material > Marblestone > Royal Tilestone	3
+Kleid Ice Bomb	Explosive Uni > Ice Caltrop > Ice Bomb > Kleid Ice Bomb	4
+Spirinite	Polish Powder > Pearl Crystal > Amberlite > Spirinite	4
+Quartz Necklace	Polish Powder > Pearl Crystal > Amberlite > Quartz Necklace	4
+Glass Flower	Zettel > Traveler's Water Orb > Delphi Rose Incense > Glass Flower	4
+Loupe Compass	Ingot > Bronze Eisen > Compass > Loupe Compass	4
+Norden Brand	Ingot > Bronze Eisen > Staltium > Norden Brand	4
+Criminea	Ingot > Bronze Eisen > Staltium > Criminea	4
+Knapsack	Cloth > Natural Cloth > Beastial Air > Knapsack	4
+Sorcery Rose	Cloth > Natural Cloth > Beastial Air > Sorcery Rose	4
+Poison Smoke	Cloth > Alchemy Fibers > Thorny Embrace > Poison Smoke	4
+Miracle Ebonyal	Honey > Eltz Sugar > War Powder > Miracle Ebonyal	4
+Crystal Element	Mixing Oil > Alchemy Paint > Spirit Bottle > Crystal Element	4
+Holy Drop	Flour > Poison Cube > Taboo Drop > Holy Drop	4
+Rune Code	Handmade Staff > Helioprox > Grim Quartz > Rune Code	4
+Concert Mistress	Practice Flute > Crepusculum > Virgin Snow > Concert Mistress	4
+Schwartz Thruster	Weathered Sword > Colossal Edge > Initiator > Schwartz Thruster	4
+Holy Torrent	Stake Hammer > Clairempathy > Destruction > Holy Torrent	4
+Holy Arbor Staff	Pilgrimage Staff > Forest Bell > Training Path > Holy Arbor Staff	4
+Wind Slicer	Iron Claws > Krieger's Talon > Hail Crunch > Wind Slicer	4
+Darkness Dress	Kurken Sweats > Chain Vest > Fairy Cloak > Darkness Dress	4
+Charade Lumont	Kurken Sweats > Chain Vest > Skuller Coat > Charade Lumont	4
+Darkness Dress	Noble Tunic > Chain Vest > Fairy Cloak > Darkness Dress	4
+Charade Lumont	Noble Tunic > Chain Vest > Skuller Coat > Charade Lumont	4
+Frost Armor	Leather Protector > Border Scale > Radiant Plate > Frost Armor	4
+Exorcism Brooch	Building Material > Composite Plate > Holy Nut > Exorcism Brooch	4
+Plain Lumber	Building Material > Composite Plate > Holy Nut > Plain Lumber	4
+Vanish Siegel	Explosive Uni > Ice Caltrop > Ice Bomb > Kleid Ice Bomb > Vanish Siegel	5
+Saint's Diamond	Polish Powder > Pearl Crystal > Amberlite > Spirinite > Saint's Diamond	5
+Heated Bangle	Polish Powder > Pearl Crystal > Amberlite > Spirinite > Heated Bangle	5
+Mirage Loupe	Zettel > Traveler's Water Orb > Delphi Rose Incense > Glass Flower > Mirage Loupe	5
+Astronomical Clock	Ingot > Bronze Eisen > Staltium > Criminea > Astronomical Clock	5
+Exploration Set	Cloth > Natural Cloth > Beastial Air > Knapsack > Exploration Set	5
+Wind Shoes	Cloth > Natural Cloth > Beastial Air > Sorcery Rose > Wind Shoes	5
+Heroic Geist	Cloth > Alchemy Fibers > Thorny Embrace > Poison Smoke > Heroic Geist	5
+Philosopher's Stone	Mixing Oil > Alchemy Paint > Spirit Bottle > Crystal Element > Philosopher's Stone	5
+Celestial Seeker	Handmade Staff > Helioprox > Grim Quartz > Rune Code > Celestial Seeker	5
+Ethereal Tone	Practice Flute > Crepusculum > Virgin Snow > Concert Mistress > Ethereal Tone	5
+Lord Guardian	Weathered Sword > Colossal Edge > Initiator > Schwartz Thruster > Lord Guardian	5
+Brave Emblem	Stake Hammer > Clairempathy > Destruction > Holy Torrent > Brave Emblem	5
+Occult Wisdom	Pilgrimage Staff > Forest Bell > Training Path > Holy Arbor Staff > Occult Wisdom	5
+Oren Herald	Iron Claws > Krieger's Talon > Hail Crunch > Wind Slicer > Oren Herald	5
+Sage's Cloak	Kurken Sweats > Chain Vest > Fairy Cloak > Darkness Dress > Sage's Cloak	5
+Sage's Cloak	Noble Tunic > Chain Vest > Fairy Cloak > Darkness Dress > Sage's Cloak	5
+Golden Mail	Leather Protector > Border Scale > Radiant Plate > Frost Armor > Golden Mail	5
+Arc en Ciel	Polish Powder > Pearl Crystal > Amberlite > Spirinite > Saint's Diamond > Arc en Ciel	6
+Fairystone Chain	Polish Powder > Pearl Crystal > Amberlite > Spirinite > Saint's Diamond > Fairystone Chain	6
+Stark Cologne	Kurken Sweats > Chain Vest > Fairy Cloak > Darkness Dress > Sage's Cloak > Stark Cologne	6
+Stark Cologne	Noble Tunic > Chain Vest > Fairy Cloak > Darkness Dress > Sage's Cloak > Stark Cologne	6
+Fortress Armor	Leather Protector > Border Scale > Radiant Plate > Frost Armor > Golden Mail > Fortress Armor	6
+Elixir Ring	Polish Powder > Pearl Crystal > Amberlite > Spirinite > Saint's Diamond > Arc en Ciel > Elixir Ring	7
+Stark Cologne	Leather Protector > Border Scale > Radiant Plate > Frost Armor > Golden Mail > Fortress Armor > Stark Cologne	7

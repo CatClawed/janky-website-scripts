@@ -1,0 +1,1 @@
+This series of scripts simply runs gust_tools executables on lists of folders. The important one is g1t_to_png, which also runs an imagemagick command to convert and rename the image. The others may not even be necessary; have not tested in quite a while. Yes, these assume the script and exe are in the same folder as the data, did you not believe the janky script name?
