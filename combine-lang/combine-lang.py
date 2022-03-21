@@ -4,7 +4,7 @@ import sys
 # Usage: combine-lang.py filename [file 1] [file2] etc ...
 # If ya mess up it ain't checking
 
-# combine-lang.py effects.txt text_en/str_item_effect.txt text_en/str_library_eff_detail.txt text_jp/str_item_effect.txt text_jp/str_library_eff_detail.txt text_kr/str_item_effect.txt text_kr/str_library_eff_detail.txt text_fr/str_item_effect.txt text_fr/str_library_eff_detail.txt text_sc/str_item_effect.txt text_sc/str_library_eff_detail.txt text_tc/str_item_effect.txt text_tc/str_library_eff_detail.txt 
+# combine-lang.py monstername.txt text_en/str_monster_name.txt text/str_monster_name.txt text_sc/str_monster_name.txt text_tw/str_monster_name.txt
 
 if len(sys.argv) < 4:
 	print("provide more files")
