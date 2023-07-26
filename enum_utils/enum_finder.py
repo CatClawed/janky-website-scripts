@@ -3,11 +3,11 @@
 
 import re
 
-f = 'Atelier_Ryza_2.exe'
+f = 'name_here_lul.exe'
 
 with open(f, mode='rb') as file:
 	filecontent = file.read()
-	x = re.findall(b'\0[A-Z0-9]{2,}[_]{1}[A-Z0-9_]{2,}\0', filecontent)
+	x = re.findall(b'[A-Z0-9]{2,}[_]{1}[A-Z0-9_]{2,}\0', filecontent)
 	
 	with open('enums.txt', 'w') as f:
 		for enum in x:
