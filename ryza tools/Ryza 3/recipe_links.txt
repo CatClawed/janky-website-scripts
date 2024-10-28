@@ -1,0 +1,76 @@
+prison-of-decline	poisonous-liquid > prison-of-decline	2
+the-grim-reaper	poisonous-liquid > the-grim-reaper	2
+wind-crystal-ball	luft > wind-crystal-ball	2
+sourcebook-of-acacia	forbidden-spell-book > sourcebook-of-acacia	2
+mythic-nectar	nectar > mythic-nectar	2
+mist-of-silence	fairy-elixir > mist-of-silence	2
+miracle-ebonyal	war-powder > miracle-ebonyal	2
+silent-sickle	grass-sickle > silent-sickle	2
+golden-axe	woodcutter-s-axe > golden-axe	2
+ravage-hammer	hammer > ravage-hammer	2
+divine-fishing-rod	fishing-rod > divine-fishing-rod	2
+master-catcher-s-net	catcher-s-net > master-catcher-s-net	2
+rainbow-neutralizer	red-neutralizer > rainbow-neutralizer	2
+rainbow-neutralizer	blue-neutralizer > rainbow-neutralizer	2
+rainbow-neutralizer	yellow-neutralizer > rainbow-neutralizer	2
+rainbow-neutralizer	green-neutralizer > rainbow-neutralizer	2
+honey-crystal	honey > honey-crystal	2
+doctor-s-bottle	medica-powder > doctor-s-bottle	2
+hermit-ointment	medica-powder > hermit-ointment	2
+fairy-elixir	doctor-s-bottle > fairy-elixir	2
+locket-of-devotion	pearl-crystal > locket-of-devotion	2
+quartz-necklace	amberlite > quartz-necklace	2
+clairvoyance-monocle	spirinite > clairvoyance-monocle	2
+warlock-ring	waking-emerald > warlock-ring	2
+cluster-cuffs	arc-en-ciel > cluster-cuffs	2
+dark-glittering-oval	arc-en-ciel > dark-glittering-oval	2
+donour-powder	nitro-chips > donour-powder	2
+blue-flame-ember	donour-powder > blue-flame-ember	2
+colorful-oil	mixing-oil > colorful-oil	2
+depiction-of-a-devil	colorful-oil > depiction-of-a-devil	2
+startium	ingot > startium	2
+goldoterion	creaminea > goldoterion	2
+baron-s-crown	goldoterion > baron-s-crown	2
+harnal-ring	grand-orgen > harnal-ring	2
+himmel-schulwa	alchemy-fibers > himmel-schulwa	2
+eternal-firo	himmel-schulwa > eternal-firo	2
+bestial-air	cloth > bestial-air	2
+phantom-scarf-2	cloth > phantom-scarf-2	2
+royal-cloth	sorcery-rose > royal-cloth	2
+mystic-robe	royal-cloth > mystic-robe	2
+master-leather	puni-leather > master-leather	2
+dread-leather	master-leather > dread-leather	2
+warrior-choker	master-leather > warrior-choker	2
+olden-philosopher-s-stone	philosopher-s-stone > olden-philosopher-s-stone	2
+berry-syrup	honey-crystal > berry-syrup	2
+feather-draft	wind-crystal-ball > feather-draft	2
+crystal-element	spirit-bottle > crystal-element	2
+four-spirits-amulet	crystal-element > four-spirits-amulet	2
+philosopher-s-stone	crystal-element > philosopher-s-stone	2
+prison-of-decline	poisonous-liquid > prison-of-decline	2
+the-grim-reaper	poisonous-liquid > the-grim-reaper	2
+polishing-sand	polishing-powder > polishing-sand	2
+fake-bouquet	rose-perfume > fake-bouquet	2
+luft-atomizer	spring-wind-pinwheel > luft-atomizer	2
+cantera-of-calamity	exotic-lantern > cantera-of-calamity	2
+spring-wind-pinwheel	magna-mater > spring-wind-pinwheel	2
+warrior-bangle	eternal-monolith > warrior-bangle	2
+migratory-charm	locket-of-devotion > migratory-charm	2
+feather-draft	luft > wind-crystal-ball > feather-draft	3
+berry-syrup	honey > honey-crystal > berry-syrup	3
+fairy-elixir	medica-powder > doctor-s-bottle > fairy-elixir	3
+mist-of-silence	doctor-s-bottle > fairy-elixir > mist-of-silence	3
+migratory-charm	pearl-crystal > locket-of-devotion > migratory-charm	3
+blue-flame-ember	nitro-chips > donour-powder > blue-flame-ember	3
+depiction-of-a-devil	mixing-oil > colorful-oil > depiction-of-a-devil	3
+baron-s-crown	creaminea > goldoterion > baron-s-crown	3
+eternal-firo	alchemy-fibers > himmel-schulwa > eternal-firo	3
+mystic-robe	sorcery-rose > royal-cloth > mystic-robe	3
+dread-leather	puni-leather > master-leather > dread-leather	3
+warrior-choker	puni-leather > master-leather > warrior-choker	3
+four-spirits-amulet	spirit-bottle > crystal-element > four-spirits-amulet	3
+philosopher-s-stone	spirit-bottle > crystal-element > philosopher-s-stone	3
+olden-philosopher-s-stone	crystal-element > philosopher-s-stone > olden-philosopher-s-stone	3
+luft-atomizer	magna-mater > spring-wind-pinwheel > luft-atomizer	3
+mist-of-silence	medica-powder > doctor-s-bottle > fairy-elixir > mist-of-silence	4
+olden-philosopher-s-stone	spirit-bottle > crystal-element > philosopher-s-stone > olden-philosopher-s-stone	4

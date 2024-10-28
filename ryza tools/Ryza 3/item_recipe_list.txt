@@ -1,0 +1,369 @@
+gnade-ring
+phantom-scarf
+chick-doll
+myria-fish-2
+fairystone-pendant
+spring-princess-2
+energy-pendant
+fairy-doll
+puni-doll
+farm-photo
+rainbow-fish-2
+countryside-photo
+small-devil-doll
+photo-of-the-capital
+weasel-doll
+pumpkin-doll
+uni-charm
+softtail-2
+dunkelheit-2
+poisonous-liquid
+light-absorbing-grass-2
+black-muck-2
+the-grim-reaper
+explosive-uni
+craft
+bomb
+ice-bomb
+plajig
+luft
+trio-craft
+anemo-bomb
+melting-ice-bomb
+lia-plajig
+edle-luft
+lunar-lamp
+astro-rose
+lavinage
+grazeit
+himmel-feather
+forbidden-spell-book
+zwei-resonance
+cross-judgement
+sourcebook-of-acacia
+grass-beans
+dry-biscuit
+nectar
+elixir
+hermit-ointment
+fairy-elixir
+mist-of-silence
+golden-heart
+mythic-nectar
+eternal-holy-grail
+fish-oil
+war-powder
+energianica
+fake-bouquet
+prison-of-decline
+haze-breath
+barbaric-horn-whistle
+depiction-of-a-devil
+mystic-robe
+miracle-ebonyal
+hourglass-of-origin
+astronomical-clock
+cantera-of-calamity
+prelude-of-the-gods
+call-of-abyss
+grass-sickle
+silent-sickle
+woodcutter-s-axe
+golden-axe
+hammer
+ravage-hammer
+fishing-rod
+divine-fishing-rod
+catcher-s-net
+master-catcher-s-net
+wind-shoes
+emerald-band
+air-drop
+summoner-s-bell
+red-neutralizer
+blue-neutralizer
+yellow-neutralizer
+green-neutralizer
+rainbow-neutralizer
+honey
+berry-syrup
+flour
+devil-s-breath
+puppet-liquid
+super-pure-water
+traveler-s-water-orb
+medica-powder
+doctor-s-bottle
+holy-drop
+taboo-drop
+zettel
+reinforced-zettel
+pearl-crystal
+amberlite
+spirinite
+waking-emerald
+arc-en-ciel
+dark-glittering-oval
+nitro-chips
+donour-powder
+blue-flame-ember
+mixing-oil
+flint-charcoal
+colorful-oil
+solid-ice-fuel
+feather-draft
+ingot
+startium
+creaminea
+goldoterion
+grand-orgen
+alchemy-fibers
+himmel-schulwa
+eternal-firo
+cloth
+bestial-air
+sorcery-rose
+royal-cloth
+sage-coat
+puni-leather
+master-leather
+dread-leather
+grace-nero
+philosopher-s-stone
+olden-philosopher-s-stone
+honey-crystal
+glass-flower
+wind-crystal-ball
+growing-quartz
+spirit-bottle
+crystal-element
+poisonous-liquid
+the-grim-reaper
+polishing-powder
+rose-perfume
+spring-wind-pinwheel
+luft-atomizer
+exotic-lantern
+four-seasons-dome
+magna-mater
+polishing-sand
+marblestone
+eternal-monolith
+plant-seeds
+stone-seeds
+fire-seeds
+water-seeds
+mystic-seeds
+poison-seeds
+golden-seeds
+duet-solvent-solution
+fairystone-compass
+scintilla-glass
+lujada-crystals
+glass-goblet
+fairystone-pendant
+hollow-key
+the-starting-key
+castle-door-key
+blockade-key
+key-of-honor
+pristine-key
+red-stone-key
+blue-stone-key
+yellow-stone-key
+green-stone-key
+red-iron-key
+blue-iron-key
+orange-iron-key
+jade-iron-key
+white-silver-key
+golden-key
+rainbow-key
+red-wing-key
+blue-wing-key
+light-wing-key
+leaf-wing-key
+scarlet-wing-key
+cloud-wing-key
+wing-key
+tree-wing-key
+firebird-key
+phoenix-key
+phantom-wing-key
+fire-gear-key
+water-gear-key
+gear-key
+wind-gear-key
+fire-clock-key
+water-clock-key
+hourglass-key
+gear-gimmick-key
+key-to-the-future
+key-to-the-past
+key-of-all-times
+key-of-bright-sky
+key-of-blue-sky
+key-of-twilight-sky
+key-of-night-sky
+scarlet-key
+dark-star-key
+bright-star-key
+meteor-key
+great-heavens-key
+moon-shadow-key
+soul-cradle-key
+key-of-truth
+key-of-the-end
+shining-key
+alchemist-s-staff
+svate-rod
+celestial-seeker
+sparkling-reverie
+agnes-luce
+ciel-shoot
+yale-soar
+croiselt
+astrumnox
+astral-regalia
+smite-blade
+sword-of-rupture
+lord-guardian
+demon-ender
+liese-divider
+sharp-edge
+paradiera
+luna-solis
+amphisbaena
+ifestio
+aristoclite
+herzog
+might-of-heaven
+edel-schwert
+efflorescence
+wise-wand
+educator
+occult-wisdom
+nachfolger
+genesis-staff
+trisker
+aurora
+oren-herald
+ventiska
+nevernoche
+onyx-blade
+lysil-edge
+baron-s-light
+unfold
+lost-alucard
+iron-fan
+purple-orchid
+scarlet-heaven
+jing-qing-fan
+shrine-maiden-s-dance
+wild-axe
+daybreak
+estacado
+elde-divide
+diamantis
+moon-quake
+crepusclype
+gravimarius
+elder-lily
+raventoad
+mistral-cane
+etoile-filant
+hashbringer
+vita-reaper
+folklore
+windword
+crimson-mist
+void-punisher
+self-defense-fans
+brute-veil
+solmarkt
+noble-tunic
+leather-protector
+bone-armor
+mage-s-robe
+soldier-s-cuirass
+radiant-plate
+fairy-cloak
+chainmail-cloak
+foreign-armor
+elven-robe
+moonlight-cloak
+dragoon-mail
+kruger-cloak
+meuchelmolder
+armanoir
+uni-charm
+energy-pendant
+gnade-ring-2
+phantom-scarf-2
+locket-of-devotion
+migratory-charm
+quartz-necklace
+warlock-ring
+warrior-bangle
+clairvoyance-monocle
+harnal-ring
+warrior-choker
+four-spirits-amulet
+cluster-cuffs
+baron-s-crown
+mythic-nectar	nectar
+divine-fishing-rod	fishing-rod
+wind-crystal-ball	luft
+miracle-ebonyal	war-powder
+silent-sickle	grass-sickle
+golden-axe	woodcutter-s-axe
+rainbow-neutralizer	red-neutralizer
+rainbow-neutralizer	blue-neutralizer
+rainbow-neutralizer	yellow-neutralizer
+rainbow-neutralizer	green-neutralizer
+polishing-sand	polishing-powder
+startium	ingot
+goldoterion	creaminea
+baron-s-crown	goldoterion
+harnal-ring	grand-orgen
+eternal-firo	himmel-schulwa
+bestial-air	cloth
+phantom-scarf-2	cloth
+locket-of-devotion	pearl-crystal
+quartz-necklace	amberlite
+clairvoyance-monocle	spirinite
+cluster-cuffs	arc-en-ciel
+dark-glittering-oval	arc-en-ciel
+honey-crystal	honey
+colorful-oil	mixing-oil
+himmel-schulwa	alchemy-fibers
+master-leather	puni-leather
+dread-leather	master-leather
+warrior-choker	master-leather
+crystal-element	spirit-bottle
+olden-philosopher-s-stone	philosopher-s-stone
+warlock-ring	waking-emerald
+four-spirits-amulet	crystal-element
+philosopher-s-stone	crystal-element
+master-catcher-s-net	catcher-s-net
+doctor-s-bottle	medica-powder
+hermit-ointment	medica-powder
+fairy-elixir	doctor-s-bottle
+donour-powder	nitro-chips
+blue-flame-ember	donour-powder
+depiction-of-a-devil	colorful-oil
+royal-cloth	sorcery-rose
+mystic-robe	royal-cloth
+berry-syrup	honey-crystal
+feather-draft	wind-crystal-ball
+prison-of-decline	poisonous-liquid
+the-grim-reaper	poisonous-liquid
+fake-bouquet	rose-perfume
+luft-atomizer	spring-wind-pinwheel
+cantera-of-calamity	exotic-lantern
+spring-wind-pinwheel	magna-mater
+warrior-bangle	eternal-monolith
+migratory-charm	locket-of-devotion
+ravage-hammer	hammer
+sourcebook-of-acacia	forbidden-spell-book
+mist-of-silence	fairy-elixir
